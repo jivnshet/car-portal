@@ -1,0 +1,14 @@
+[
+  { "name": "Maruti Suzuki", "logoUrl": "brand1.png" },
+  { "name": "Hyundai", "logoUrl": "brand2.png" },
+  { "name": "Renault", "logoUrl": "brand3.png" },
+  { "name": "Honda", "logoUrl": "brand4.png" },
+  { "name": "Tata", "logoUrl": "brand5.png" },
+  { "name": "Ford", "logoUrl": "brand6.png" },
+  { "name": "VW", "logoUrl": "brand7.png" },
+  { "name": "Mahindra", "logoUrl": "brand8.png" },
+  { "name": "Toyota", "logoUrl": "brand9.png" },
+  { "name": "BMW", "logoUrl": "brand10.png" },
+  { "name": "Mercedes Benz", "logoUrl": "brand11.png" },
+  { "name": "More", "logoUrl": "brand12.png" }
+]
